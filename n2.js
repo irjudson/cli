@@ -4,4 +4,4 @@ var cli = require('./lib')
 var options = optimist.argv;
 var commands = optimist.argv._;
 
-cli.execute(commands, options);
+cli.execute(commands, options, function() {});
