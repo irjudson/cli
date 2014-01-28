@@ -2,10 +2,13 @@
 
 Provides a command line interface to the Nitrogen service. 
 
-## Other Projects
+## Nitrogen Project
 
-Nitrogen has three other projects that you should have a look at as well.
+The Nitrogen project is housed in a set of GitHub projects:
 
-1. [service](https://github.com/nitrogenjs/service): The core Nitrogen service responsible for managing users, devices, and messaging between them.
-2. [client](https://github.com/nitrogenjs/client): The client library for building Nitrogen devices and applications.
-3. [admin](https://github.com/nitrogenjs/admin): An administrative tool for managing the Nitrogen service.
+1. [service](https://github.com/nitrogenjs/service): Core platform responsible for managing principals, security, and messaging.
+2. [client](https://github.com/nitrogenjs/client): JavaScript client library for building Nitrogen devices and applications.
+3. [admin](https://github.com/nitrogenjs/admin): Administrative tool for managing the Nitrogen service.
+4. [device](https://github.com/nitrogenjs/devices): Adaptors for common pieces of hardware.
+5. [commands](https://github.com/nitrogenjs/commands): CommandManagers and schemas for well known command types.
+6. [cli](https://github.com/nitrogenjs/cli): Command line interface for working with a Nitrogen service.
