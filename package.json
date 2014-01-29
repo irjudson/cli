@@ -12,9 +12,13 @@
     "optimist": "~0.6.0",
     "nitrogen": "~0.1.209",
     "nitrogen-leveldb-store": "~0.1.202",
-    "mocha": "~1.17.1"
+    "mocha": "~1.17.1",
+    "read": "~1.0.5"
   },
   "devDependencies": {
     "mocha": "1.x"
+  },
+  "bin": { 
+    "n2": "./n2.js" 
   }
 }
