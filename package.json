@@ -1,24 +1,24 @@
 {
-  "name": "n2",
+  "name": "nitrogen-cli",
   "homepage": "https://github.com/nitrogenjs/cli",
   "repository": {
     "type": "git",
     "url": "https://github.com/nitrogenjs/cli.git"
   },
   "version": "0.1.1",
-  "private": "true",
   "dependencies": {
     "async": "~0.2.10",
-    "optimist": "~0.6.0",
-    "nitrogen": "~0.1.209",
-    "nitrogen-leveldb-store": "~0.1.202",
+    "level": "~0.18.0",
     "mocha": "~1.17.1",
+    "nitrogen": "~0.1.209",
+    "nitrogen-memory-store": "~0.1.202",
+    "optimist": "~0.6.0",
     "read": "~1.0.5"
   },
   "devDependencies": {
     "mocha": "1.x"
   },
-  "bin": { 
-    "n2": "./n2.js" 
+  "bin": {
+    "n2": "./n2.js"
   }
 }
