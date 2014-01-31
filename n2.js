@@ -3,6 +3,8 @@ var cli = require('./lib')
 
 var commandArguments = optimist.argv._;
 
-cli.execute(commandArguments, session, function(err) {
+cli.arguments = optimist.argv._;
+
+cli.execute(function(err) {
 	if (err) return console.log('command failed: ' + err);
 });
