@@ -10,7 +10,7 @@
     "async": "~0.2.10",
     "level": "~0.18.0",
     "mocha": "~1.17.1",
-    "nitrogen": "~0.1.209",
+    "nitrogen": "~0.1.210",
     "nitrogen-memory-store": "~0.1.202",
     "optimist": "~0.6.0",
     "read": "~1.0.5"
