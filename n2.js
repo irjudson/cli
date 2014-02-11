@@ -7,4 +7,6 @@ cli.arguments = optimist.argv._;
 
 cli.execute(function(err) {
 	if (err) return console.log('command failed: ' + err);
+
+	process.exit();
 });
