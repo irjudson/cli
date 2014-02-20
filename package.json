@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/nitrogenjs/cli.git"
   },
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {
     "async": "~0.2.10",
     "level": "~0.18.0",
@@ -19,6 +19,6 @@
     "mocha": "1.x"
   },
   "bin": {
-    "n2": "./n2.js"
+    "n2": "./n2"
   }
 }
