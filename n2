@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var cli = require('./lib')
   , optimist = require('optimist');
 
