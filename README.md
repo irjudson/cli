@@ -1,6 +1,7 @@
 # Nitrogen CLI
 
-Provides a command line interface to the Nitrogen service. 
+Provides a command line interface to the Nitrogen service. The command line interface is still very
+basic and a work in progress. Pull requests appreciated!
 
 ## Nitrogen Project
 
