@@ -6,7 +6,7 @@ var cli = require('./lib')
 var commandArguments = optimist.argv._;
 
 cli.execute(optimist.argv, function(err) {
-    if (err) return cli.log.error(JSON.stringify(err));
+    if (err) cli.log.error(JSON.stringify(err));
 
     process.exit(0);
 });
