@@ -1,7 +1,14 @@
 # Nitrogen CLI
 
-Provides a command line interface to the Nitrogen service. The command line interface is still very
-basic and a work in progress. Pull requests appreciated!
+Provides a command line interface to the Nitrogen service. 
+
+## Getting Started
+
+`> npm install -g nitrogen-cli`
+
+Then the Nitrogen command line tool will be available via `n2`:
+
+`> n2 help`
 
 ## Nitrogen Project
 
