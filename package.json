@@ -11,7 +11,7 @@
     "level": "~0.18.0",
     "mocha": "~1.18.2",
     "moment": "~2.5.1",
-    "nitrogen": "~0.1.229",
+    "nitrogen": "~0.1.230",
     "nitrogen-memory-store": "~0.1.202",
     "optimist": "~0.6.0",
     "read": "~1.0.5"
