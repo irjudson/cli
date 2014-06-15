@@ -5,13 +5,13 @@
     "type": "git",
     "url": "https://github.com/nitrogenjs/cli.git"
   },
-  "version": "0.1.32",
+  "version": "0.1.33",
   "dependencies": {
     "async": "~0.2.10",
     "level": "~0.18.0",
     "mocha": "~1.18.2",
     "moment": "~2.5.1",
-    "nitrogen": "~0.1.318",
+    "nitrogen": "~0.1.319",
     "nitrogen-memory-store": "~0.1.202",
     "optimist": "~0.6.0",
     "read": "~1.0.5"
