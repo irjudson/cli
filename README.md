@@ -1,4 +1,4 @@
-# Nitrogen CLI
+# Nitrogen Command Line Interface 
 
 Provides a command line interface to the Nitrogen service.
 
@@ -6,7 +6,7 @@ Provides a command line interface to the Nitrogen service.
 
 `> npm install -g nitrogen-cli`
 
-The Nitrogen command line tool is will then be available via `n2`:
+The Nitrogen command line tool will then be available via `n2`:
 
 `> n2 help`
 
