@@ -1,5 +1,7 @@
 # Nitrogen Command Line Interface 
 
+# Travis status
+
 Provides a command line interface to the Nitrogen service.
 
 ## Getting Started
