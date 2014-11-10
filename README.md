@@ -1,4 +1,5 @@
 # Travis status
+https://travis-ci.org/irjudson/cli.svg?branch=master
 
 # Nitrogen Command Line Interface 
 
