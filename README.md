@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/irjudson/cli.svg?branch=filestore)](https://travis-ci.org/irjudson/cli)
+
 # Nitrogen Command Line Interface 
 
 Provides a command line interface to the Nitrogen service.
