@@ -5,11 +5,10 @@
     "type": "git",
     "url": "https://github.com/nitrogenjs/cli.git"
   },
-  "version": "0.2.6",
+  "version": "0.2.7",
   "dependencies": {
     "async": "~0.2.10",
-    "level": "~0.18.0",
-    "mocha": "~1.18.2",
+    "jfs" : "https://github.com/flosse/json-file-store.git",
     "moment": "~2.5.1",
     "nitrogen": "~0.2.13",
     "nitrogen-memory-store": "~0.1.202",
@@ -17,7 +16,7 @@
     "read": "~1.0.5"
   },
   "devDependencies": {
-    "mocha": "1.x"
+    "mocha": "~1.18.2"
   },
   "bin": {
     "n2": "./n2"

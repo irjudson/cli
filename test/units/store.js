@@ -29,4 +29,16 @@ describe('store', function() {
         });
     });
 
+
+    it('should be able to remove a value', function(done) {
+        store.delete('foo', function(err) {
+            assert.ifError(err);
+
+            store.get('foo', function(err, hash) {
+                assert.notEqual(err, "could not load data");
+                done();
+            });
+        });
+    });
+
 });
