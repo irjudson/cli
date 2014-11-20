@@ -8,7 +8,7 @@
   "version": "0.2.7",
   "dependencies": {
     "async": "~0.2.10",
-    "jfs" : "https://github.com/flosse/json-file-store.git",
+    "jfs" : "0.2.2",
     "moment": "~2.5.1",
     "nitrogen": "~0.2.13",
     "nitrogen-memory-store": "~0.1.202",
