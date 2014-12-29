@@ -8,8 +8,7 @@
   "version": "0.2.7",
   "dependencies": {
     "async": "~0.2.10",
-    "jfs" : "0.2.1",
-    "mocha": "~1.18.2",
+    "jfs" : "0.2.2",
     "moment": "~2.5.1",
     "nitrogen": "~0.2.13",
     "nitrogen-memory-store": "~0.1.202",
@@ -17,7 +16,7 @@
     "read": "~1.0.5"
   },
   "devDependencies": {
-    "mocha": "1.x"
+    "mocha": "~1.18.2"
   },
   "bin": {
     "n2": "./n2"
